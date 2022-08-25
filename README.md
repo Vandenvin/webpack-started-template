@@ -2,4 +2,6 @@
 
 Webpack started template
 
-Before code need in terminal: npm install
+Before code need 
+- copy all files in new project
+- in terminal: npm install
